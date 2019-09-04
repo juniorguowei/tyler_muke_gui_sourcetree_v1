@@ -204,3 +204,5 @@ CREATE TABLE `o2o_order`(
    KEY `user_id`(`user_id`),
    KEY `create_time`(`create_time`)
 )ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+I am a Strong man;
